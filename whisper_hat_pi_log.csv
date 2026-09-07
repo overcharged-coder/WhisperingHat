@@ -1,0 +1,107 @@
+time,event,class_name,confidence,risk,reason,direction,corridor_position,in_corridor,distance_level,distance_source,raw_distance_m,fake_distance_m,approach_mps,area_growth,speed_px,box_h_px,face_name,face_distance_score,track_id
+2026-07-09 14:44:23,alert,person,0.924,2,person close in path,ahead,in path,True,close,calibrated_height,0.97,0.87,-0.09,0,0,346.1,,,-1
+2026-07-09 14:47:30,alert,person,0.869,2,person close in path,ahead,in path,True,close,calibrated_height,0.72,0.71,-0.0,0,0,468.4,,,-1
+2026-07-09 14:48:20,alert,person,0.887,2,person close in path,ahead,in path,True,close,calibrated_height,0.71,0.82,35.56,0,0,470.2,,,-1
+2026-07-10 08:11:39,alert,person,0.9,2,person close in path,ahead,in path,True,close,calibrated_height,0.77,0.77,0.0,0,0,437.2,,,-1
+2026-07-10 10:18:07,alert,person,0.889,2,person close in path,ahead,in path,True,close,calibrated_height,0.71,0.87,0.13,0,0,470.8,,,-1
+2026-07-10 10:26:45,alert,person,0.758,2,Om close in path,ahead,in path,True,close,calibrated_height,1.07,0.86,-0.17,0,0,313.4,Om,0.472,-1
+2026-07-10 10:26:58,alert,person,0.768,2,Om close in path,ahead,in path,True,close,calibrated_height,1.03,1.14,0.09,0,0,327.6,Om,0.369,-1
+2026-07-10 11:06:59,alert,person,0.957,2,Om close in path,ahead,in path,True,close,calibrated_height,0.88,0.89,0.01,0,0,381.4,Om,0.44,-1
+2026-07-10 11:07:16,alert,person,0.93,2,Manojeet close right in path,right,in path,True,close,calibrated_height,0.71,0.97,0.25,0,0,476.5,Manojeet,0.439,-1
+2026-07-10 13:24:17,alert,person,0.922,2,person close left in path,left,in path,True,close,calibrated_height,0.89,0.85,-0.03,0,0,378.3,,,,,-1
+2026-07-10 13:25:12,alert,person,0.817,2,Om close in path,ahead,in path,True,close,calibrated_height,0.98,1.11,0.1,0,0,344.0,Om,0.427,,,-1
+2026-07-10 14:27:21,alert,person,0.939,2,person close left in path,left,in path,True,close,calibrated_height,0.87,0.82,-0.04,0,0,384.1,,,,,-1
+2026-07-10 15:13:11,alert,person,0.924,2,person close in path,ahead,in path,True,close,calibrated_height,0.92,1.08,0.13,0,0,363.8,,,,,-1
+2026-07-10 19:02:48,alert,person,0.867,2,person close right in path,right,in path,True,close,calibrated_height,1.26,1.13,-0.11,0,0,266.6,,,happy,0.653,-1
+2026-07-10 19:13:21,alert,person,0.791,2,person close in path,ahead,in path,True,close,calibrated_height,0.71,0.71,0.0,0,0,470.2,,,,,-1
+2026-07-10 19:26:39,alert,person,0.761,2,person close in path,ahead,in path,True,close,calibrated_height,2.24,1.19,-0.32,0,0,150.3,,,,,-1
+2026-07-10 21:14:48,alert,person,0.83,1,Om in path,ahead,in path,True,medium,calibrated_height,1.81,1.95,0.12,0.206,11.45,185.5,Om,0.451,neutral,0.256,1
+2026-07-10 21:14:57,alert,person,0.919,2,person close left in path,left,in path,True,close,calibrated_height,0.72,0.72,0.0,0,0,469.9,,,,,5
+2026-07-10 21:15:10,alert,person,0.836,1,person left side,left,left side,False,medium,calibrated_height,1.86,1.75,-0.1,0,0,180.4,,,,,-1
+2026-07-10 21:15:11,alert,person,0.896,2,person close left in path,left,in path,True,close,calibrated_height,1.19,1.23,0.04,0.102,38.14,282.5,,,,,9
+2026-07-10 21:15:12,alert,person,0.896,2,person close in path,ahead,in path,True,close,calibrated_height,1.05,1.09,0.03,0.029,30.45,320.7,,,,,5
+2026-07-10 21:15:14,alert,person,0.913,2,person close right in path,right,in path,True,close,calibrated_height,0.86,0.99,0.09,0.376,92.57,390.4,,,,,5
+2026-07-10 21:15:15,alert,person,0.851,2,Manojeet close right in path,right,in path,True,close,calibrated_height,0.85,0.93,0.04,0.415,131.52,393.7,Manojeet,0.488,angry,0.477,5
+2026-07-10 21:15:17,alert,person,0.898,2,person close right in path,right,in path,True,close,calibrated_height,0.86,0.89,0.02,0.526,80.0,391.8,,,neutral,0.539,5
+2026-07-10 21:15:19,alert,person,0.877,2,Manojeet close right in path,right,in path,True,close,calibrated_height,0.91,0.89,-0.01,0.064,65.24,371.2,Manojeet,0.492,,,5
+2026-07-10 21:15:20,alert,person,0.912,2,person close right in path,right,in path,True,close,calibrated_height,0.87,0.89,0.02,0.177,39.33,387.3,,,,,5
+2026-07-10 21:15:22,alert,person,0.879,1,Manojeet right side,right,right side,False,close,calibrated_height,0.88,0.87,-0.0,-0.083,111.57,383.4,Manojeet,0.485,happy,0.351,9
+2026-07-10 21:15:25,alert,person,0.882,1,person right side,right,right side,False,close,calibrated_height,0.95,0.93,-0.01,-0.257,52.77,354.0,,,,,9
+2026-07-10 21:35:53,alert,person,0.896,2,person close in path,ahead,in path,True,close,calibrated_height,0.71,0.71,0.0,0,0,472.8,,,,,1
+2026-07-11 08:54:36,alert,person,0.937,2,Om close in path,ahead,in path,True,close,calibrated_height,0.71,0.71,0.0,0,0,473.5,Om,0.48,fear,0.39,1
+2026-07-11 08:54:38,alert,person,0.91,2,person close in path,ahead,in path,True,close,calibrated_height,1.01,0.8,-0.13,-0.469,88.93,333.5,,,,,1
+2026-07-11 08:54:39,alert,person,0.939,2,Om close in path,ahead,in path,True,close,calibrated_height,0.82,0.81,-0.01,-0.123,95.14,408.8,Om,0.414,happy,0.369,1
+2026-07-11 08:54:42,alert,person,0.863,2,person close in path,ahead,in path,True,close,calibrated_height,0.77,0.78,0.0,1.041,102.76,434.3,,,,,1
+2026-07-11 08:54:43,alert,person,0.953,2,Om close in path,ahead,in path,True,close,calibrated_height,0.74,0.77,0.01,0.451,28.51,455.5,Om,0.474,happy,0.697,1
+2026-07-11 08:54:50,alert,person,0.89,2,person close in path,ahead,in path,True,close,calibrated_height,0.77,0.72,-0.04,-0.113,37.48,438.5,,,,,1
+2026-07-11 11:34:52,alert,person,0.89,1,person left in path,left,in path,True,medium,calibrated_height,1.3,1.35,0.04,0.099,5.46,257.8,,,angry,0.309,1
+2026-07-11 11:34:53,alert,person,0.876,2,Manojeet approaching left in path,left,in path,True,medium,calibrated_height,1.14,1.25,0.08,0.413,21.81,293.8,Manojeet,0.416,neutral,0.441,1
+2026-07-11 11:34:55,alert,person,0.88,2,Manojeet close left in path,left,in path,True,close,calibrated_height,1.14,1.19,0.03,0.41,23.13,293.7,Manojeet,0.364,neutral,0.391,1
+2026-07-11 11:35:03,alert,person,0.718,2,Manojeet close in path,ahead,in path,True,close,calibrated_height,1.08,1.09,0.01,0.021,21.13,312.0,Manojeet,0.439,happy,0.827,1
+2026-07-11 11:35:05,alert,person,0.936,2,person close left in path,left,in path,True,close,calibrated_height,0.97,1.05,0.06,0.202,21.68,348.0,,,happy,0.779,1
+2026-07-11 16:09:12,alert,person,0.921,2,person close in path,ahead,in path,True,close,calibrated_height,0.73,0.73,0.0,0,0,458.5,,,,,1
+2026-07-11 16:09:15,alert,person,0.941,2,Om close in path,ahead,in path,True,close,calibrated_height,0.7,0.71,0.01,0.13,67.19,477.7,Om,0.418,happy,0.645,1
+2026-07-11 16:09:23,alert,person,0.932,2,Om close in path,ahead,in path,True,close,calibrated_height,0.72,0.72,0.01,0.033,89.55,469.6,Om,0.421,happy,0.754,1
+2026-07-11 16:09:29,alert,person,0.945,2,person close in path,ahead,in path,True,close,calibrated_height,0.76,0.76,-0.0,0.086,52.92,440.1,,,happy,0.713,1
+2026-07-11 16:51:41,alert,person,0.724,2,person close in path,ahead,in path,True,close,calibrated_height,0.98,0.8,-0.14,-0.389,117.61,344.1,,,sad,0.59,1
+2026-07-11 16:51:43,alert,person,0.776,2,Om close in path,ahead,in path,True,close,calibrated_height,1.25,1.18,-0.05,-0.135,30.46,269.8,Om,0.387,neutral,0.673,2
+2026-07-11 16:51:45,alert,person,0.749,1,Om in path,ahead,in path,True,medium,calibrated_height,1.32,1.25,-0.04,-0.268,57.75,253.6,Om,0.406,neutral,0.668,2
+2026-07-11 16:51:52,alert,person,0.792,1,person in path,ahead,in path,True,medium,calibrated_height,1.4,1.38,-0.02,-0.064,9.66,240.6,,,fear,0.389,2
+2026-07-11 16:51:54,alert,person,0.808,1,Om in path,ahead,in path,True,medium,calibrated_height,1.4,1.39,-0.0,-0.03,37.98,240.2,Om,0.406,happy,0.528,2
+2026-07-11 16:52:12,alert,person,0.436,1,person left side,left,left side,False,close,calibrated_height,1.13,1.12,-0.01,-0.026,1.96,296.4,,,,,10
+2026-07-11 16:52:14,alert,person,0.702,1,person in path,ahead,in path,True,medium,calibrated_height,1.42,1.4,-0.01,-0.007,25.33,236.3,,,,,2
+2026-07-11 16:52:18,alert,person,0.714,1,Om in path,ahead,in path,True,medium,calibrated_height,1.32,1.35,0.01,0.169,58.12,253.6,Om,0.446,surprise,0.541,2
+2026-07-11 16:52:27,alert,person,0.712,1,person in path,ahead,in path,True,medium,calibrated_height,1.32,1.32,0.0,0,0,254.3,,,,,13
+2026-07-11 16:52:31,alert,person,0.824,1,Om in path,ahead,in path,True,medium,calibrated_height,1.34,1.36,0.01,-0.028,45.45,250.8,Om,0.471,,,13
+2026-07-11 16:52:33,alert,person,0.616,1,person in path,ahead,in path,True,medium,calibrated_height,1.36,1.35,-0.0,0.009,102.15,247.7,,,sad,0.316,13
+2026-07-11 16:52:41,alert,person,0.686,1,person left in path,left,in path,True,medium,calibrated_height,1.56,1.56,0.0,0,0,215.2,,,,,-1
+2026-07-11 16:52:44,alert,person,0.782,2,person close in path,ahead,in path,True,close,calibrated_height,0.89,1.12,0.11,2.265,77.33,377.5,,,,,13
+2026-07-11 16:52:50,alert,person,0.784,2,person close left in path,left,in path,True,close,calibrated_height,1.48,1.18,-0.19,-0.663,115.95,226.9,,,,,13
+2026-07-11 16:52:52,alert,person,0.881,1,person in path,ahead,in path,True,medium,calibrated_height,1.35,1.35,0.0,-0.435,62.85,248.7,,,,,13
+2026-07-11 16:52:53,alert,person,0.884,2,person close in path,ahead,in path,True,close,calibrated_height,0.88,1.17,0.15,0.965,21.35,380.4,,,,,13
+2026-07-11 16:53:01,alert,person,0.627,2,person close in path,ahead,in path,True,close,calibrated_height,1.19,1.19,0.0,-0.467,67.73,283.4,,,angry,0.347,13
+2026-07-11 16:53:08,alert,person,0.931,2,Om close in path,ahead,in path,True,close,calibrated_height,0.72,0.92,0.17,0.908,90.91,464.0,Om,0.377,happy,0.863,13
+2026-07-11 16:53:16,alert,person,0.905,2,Om close in path,ahead,in path,True,close,calibrated_height,0.71,0.71,0.0,-0.018,18.9,472.1,Om,0.432,happy,0.937,13
+2026-07-11 16:53:24,alert,person,0.945,2,Om close in path,ahead,in path,True,close,calibrated_height,0.71,0.71,0.0,-0.008,7.82,473.0,Om,0.467,neutral,0.408,13
+2026-07-11 16:53:28,alert,person,0.834,2,person close in path,ahead,in path,True,close,calibrated_height,0.71,0.71,-0.0,-0.031,7.4,470.4,,,,,13
+2026-07-12 17:28:38,alert,person,0.654,2,Om close in path,ahead,in path,True,close,calibrated_height,1.14,1.21,0.04,0.188,40.42,295.2,Om,0.414,neutral,0.46,1
+2026-07-12 17:28:46,alert,person,0.933,2,Om close in path,ahead,in path,True,close,calibrated_height,0.76,0.86,0.04,0.587,58.86,439.5,Om,0.436,happy,0.76,1
+2026-07-13 12:07:58,alert,person,0.949,2,person close in path,ahead,in path,True,close,calibrated_height,0.78,0.79,0.01,0.037,57.66,429.8,,,fear,0.384,1
+2026-07-13 12:07:59,alert,person,0.942,2,Om close in path,ahead,in path,True,close,calibrated_height,0.76,0.78,0.01,0.103,69.45,440.0,Om,0.443,neutral,0.68,1
+2026-07-13 12:08:07,alert,person,0.941,2,Om close in path,ahead,in path,True,close,calibrated_height,0.86,0.81,-0.04,-0.146,26.02,389.6,Om,0.392,happy,0.713,1
+2026-07-13 12:08:16,alert,person,0.935,2,Om close in path,ahead,in path,True,close,calibrated_height,0.92,0.94,0.01,0.108,7.47,363.9,Om,0.394,surprise,0.666,1
+2026-07-13 12:08:24,alert,person,0.939,2,Om close in path,ahead,in path,True,close,calibrated_height,0.97,0.95,-0.01,-0.014,16.29,347.2,Om,0.399,happy,0.984,1
+2026-07-13 12:08:32,alert,person,0.752,2,Om close in path,ahead,in path,True,close,calibrated_height,1.17,1.07,-0.06,-0.29,25.37,288.1,Om,0.456,happy,0.988,1
+2026-07-13 12:08:39,alert,person,0.914,2,person close in path,ahead,in path,True,close,calibrated_height,0.71,0.85,0.08,1.004,83.76,475.7,,,neutral,0.411,1
+2026-07-13 12:08:41,alert,person,0.945,2,Om close in path,ahead,in path,True,close,calibrated_height,0.83,0.83,-0.0,0.843,58.17,402.9,Om,0.386,fear,0.524,1
+2026-07-13 12:08:50,alert,person,0.925,2,Om close in path,ahead,in path,True,close,calibrated_height,0.85,0.81,-0.02,-0.113,11.28,395.7,Om,0.447,neutral,0.669,1
+2026-07-13 12:08:58,alert,person,0.681,2,Om close in path,ahead,in path,True,close,calibrated_height,0.94,0.89,-0.05,-0.298,23.3,357.0,Om,0.385,happy,0.618,1
+2026-07-13 12:09:06,alert,person,0.611,2,Om close in path,ahead,in path,True,close,calibrated_height,1.05,1.06,0.01,0.014,19.06,320.1,Om,0.387,happy,0.926,4
+2026-07-13 12:09:11,alert,person,0.834,2,person close in path,ahead,in path,True,close,calibrated_height,1.23,1.23,0.0,0,0,273.2,,,neutral,0.78,4
+2026-07-13 12:09:13,alert,person,0.922,2,Om close in path,ahead,in path,True,close,calibrated_height,0.95,0.96,0.01,0.054,76.29,354.0,Om,0.359,neutral,0.762,1
+2026-07-13 12:09:14,alert,person,0.932,2,Om close right in path,right,in path,True,close,calibrated_height,0.95,0.97,0.01,-0.16,116.52,353.6,Om,0.417,neutral,0.708,1
+2026-07-13 12:09:18,alert,person,0.902,2,Om close in path,ahead,in path,True,close,calibrated_height,0.75,0.84,0.07,0.461,58.06,446.0,Om,0.386,neutral,0.626,1
+2026-07-13 12:09:27,alert,person,0.96,2,Om close in path,ahead,in path,True,close,calibrated_height,0.72,0.72,0.0,0.111,36.64,467.4,Om,0.363,neutral,0.625,1
+2026-07-13 12:09:28,alert,person,0.957,2,person close in path,ahead,in path,True,close,calibrated_height,0.72,0.73,0.0,0.047,4.26,464.1,,,neutral,0.62,1
+2026-07-13 12:09:29,alert,person,0.96,2,Om close in path,ahead,in path,True,close,calibrated_height,0.71,0.72,0.0,0.058,1.91,470.7,Om,0.41,neutral,0.737,1
+2026-07-13 12:09:38,alert,person,0.949,2,Om close in path,ahead,in path,True,close,calibrated_height,0.72,0.72,0.0,0.01,2.79,469.2,Om,0.43,neutral,0.689,1
+2026-07-13 12:09:43,alert,person,0.9,2,person close in path,ahead,in path,True,close,calibrated_height,0.75,0.73,-0.02,-0.079,17.72,448.8,,,,,1
+2026-07-13 12:09:45,alert,person,0.952,2,Om close in path,ahead,in path,True,close,calibrated_height,0.72,0.73,0.01,-0.009,3.28,465.9,Om,0.36,sad,0.571,1
+2026-07-13 12:09:53,alert,person,0.938,2,person close in path,ahead,in path,True,close,calibrated_height,0.73,0.73,-0.0,-0.035,6.59,458.9,,,neutral,0.898,1
+2026-07-13 12:09:54,alert,person,0.949,2,Om close in path,ahead,in path,True,close,calibrated_height,0.71,0.72,0.0,-0.002,0.13,470.0,Om,0.394,neutral,0.91,1
+2026-07-13 12:10:00,alert,person,0.948,2,person close in path,ahead,in path,True,close,calibrated_height,0.83,0.77,-0.05,-0.236,36.76,403.8,,,,,1
+2026-07-13 12:10:02,alert,person,0.951,2,Om close in path,ahead,in path,True,close,calibrated_height,0.72,0.75,0.02,-0.007,4.23,465.0,Om,0.41,neutral,0.629,1
+2026-07-13 12:10:04,alert,person,0.602,2,person close in path,ahead,in path,True,close,calibrated_height,1.49,1.0,-0.12,-0.694,118.34,225.4,,,,,1
+2026-07-13 12:10:09,alert,person,0.948,2,Om close in path,ahead,in path,True,close,calibrated_height,0.71,0.74,0.02,0.083,15.6,470.9,Om,0.316,neutral,0.808,6
+2026-07-13 12:10:17,alert,person,0.937,2,Om close in path,ahead,in path,True,close,calibrated_height,0.74,0.74,-0.0,0.394,83.03,455.2,Om,0.399,neutral,0.619,6
+2026-07-13 12:10:25,alert,person,0.952,2,Om close in path,ahead,in path,True,close,calibrated_height,0.75,0.8,0.02,0.494,55.99,447.4,Om,0.354,neutral,0.617,6
+2026-07-13 12:10:33,alert,person,0.962,2,Om close in path,ahead,in path,True,close,calibrated_height,0.72,0.73,0.0,-0.049,14.4,467.2,Om,0.451,neutral,0.711,6
+2026-07-13 12:10:42,alert,person,0.93,2,person close in path,ahead,in path,True,close,calibrated_height,0.94,0.77,-0.09,-0.397,63.24,358.6,,,,,6
+2026-07-13 12:10:44,alert,person,0.916,2,Om close in path,ahead,in path,True,close,calibrated_height,0.78,0.83,0.02,-0.14,31.48,428.3,Om,0.411,,,6
+2026-07-13 12:10:46,alert,person,0.823,2,person close in path,ahead,in path,True,close,calibrated_height,0.74,0.77,0.02,-0.05,9.81,452.5,,,,,6
+2026-07-13 12:10:50,alert,person,0.934,2,Om close in path,ahead,in path,True,close,calibrated_height,0.72,0.77,0.05,-0.021,5.91,469.2,Om,0.436,neutral,0.708,6
+2026-07-13 12:10:52,alert,person,0.906,2,person close in path,ahead,in path,True,close,calibrated_height,0.79,0.78,-0.0,0.108,16.76,428.0,,,,,6
+2026-07-13 12:10:53,alert,person,0.943,2,Om close in path,ahead,in path,True,close,calibrated_height,0.74,0.75,0.01,-0.085,35.44,456.8,Om,0.401,neutral,0.59,6
+2026-07-13 12:11:02,alert,person,0.946,2,Om close in path,ahead,in path,True,close,calibrated_height,0.92,0.92,-0.0,0.036,8.85,364.3,Om,0.385,happy,0.813,6
+2026-07-13 12:11:07,alert,person,0.931,2,person close in path,ahead,in path,True,close,calibrated_height,0.86,0.85,-0.01,0.094,95.09,389.0,,,neutral,0.809,6
+2026-07-13 12:11:12,alert,person,0.938,2,Om close in path,ahead,in path,True,close,calibrated_height,0.73,0.72,-0.01,-0.019,9.72,460.0,Om,0.48,surprise,0.815,6
